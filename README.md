@@ -20,7 +20,6 @@ A token-based liquid democracy model fights corruption by allowing citizens full
 
 The Democracy Earth Network will be structured with a Constitutional Smart Contract defining the main variables governing token distribution and citizenship requirements. Initially the network needs to propose and vote on the following central tenets:
 
-
 - Quorum and majority requirements for Proof of Identity applicants for citizenship.
 - Rate of re-validating a Proof of Identity throughout time.
 - Conditions required to declare null a verified identity (for example: detected sybils).
@@ -30,41 +29,38 @@ Identity ($I)
 
 With each new user entering the Democracy Earth platform the new profile is broadcast to the network, so that other participants can validate the two following claims:
 
-
 - Singular: the keys are connected to a single individual, with no replicants in the system.
 - Living: the keys are being requested by a self-conscious entity (and not an AI or bot).
 
 These two claims are voted on by previously validated participants, and once reaching a threshold set by the Constitutional Smart Contract, a new ERC725 citizenship is created and the user is granted the right to participate in the Democracy Earth Network.  An ERC725 identity can hold keys to sign actions and claims, attestations from third parties and a proxy function to act directly on the blockchain. All ERC725 identities can be referred in the network using the $I ticker and all verified citizenships are assumed to be constructed strictly by their self sovereign owners (no third parties are recognized outside explicit proxy delegations). The validating process should be repeated by users at a frequency set by the network’s Constitutional Smart Contract to continually verify all participants are alive and still in possession of their private keys. Additional attestations can be added and submitted for validation, so that any self-sovereign identity can satisfy the membership criteria of multiple organizations in the network.  Organizations are recognized in the Democracy Earth Network as entities created by existing ERC-compatible tokens and membership to these is demonstrated via Proof of Stake.
 
-Liquidity
+## **Liquidity**
 
 Globalization and digitalization provide the context for the new political and economic convergence represented by blockchains, establishing a new paradigm for citizenship. At Democracy Earth we are on a fundamental mission to empower citizens by providing liquidity for all, to participate in both political and economic markets.  The $VOTE token will grant participation rights to every human with decision-making as its main function. 
 
 
-- Political:  Democracy is in global recession, with citizen voices either suppressed under authoritarian regimes, or depressed by political and capital controls marginalizing participants. We see this as a liquidity problem to be solved with new forms of democratic participation and representation through liquid democracy.  The Democracy Earth network acts as a political economy, providing the service of proposals and votes in a social environment. To address the political and technological challenges of democracy, the $VOTE token is designed with a stable price and collateralized with time, taking away the incentive to hold (“hodl”) and adding incentives to stake (i.e. vote or delegate), thereby signaling political voice. Staking $VOTEs has the intrinsic reward of increasing political capacity, and stabilizing the network by adding new, validated users. Token supply is limited by time and population with distribution regulated by periodic citizenship validation and the constitutional consensus on citizenship validation rules.
+- *Political:*  Democracy is in global recession, with citizen voices either suppressed under authoritarian regimes, or depressed by political and capital controls marginalizing participants. We see this as a liquidity problem to be solved with new forms of democratic participation and representation through liquid democracy.  The Democracy Earth network acts as a political economy, providing the service of proposals and votes in a social environment. To address the political and technological challenges of democracy, the $VOTE token is designed with a stable price and collateralized with time, taking away the incentive to hold (“hodl”) and adding incentives to stake (i.e. vote or delegate), thereby signaling political voice. Staking $VOTEs has the intrinsic reward of increasing political capacity, and stabilizing the network by adding new, validated users. Token supply is limited by time and population with distribution regulated by periodic citizenship validation and the constitutional consensus on citizenship validation rules.
 
- 
+- *Economic:*  Democracy Earth's core motivation is enabling every member of society to express his preferences through the $VOTE token. This cannot be achieved with inequitable token distribution and induced scarcity typical of most crypto assets, but rather through guaranteeing access to $VOTE tokens as a human right. The distribution mechanism is analogous to a Universal Basic Income in that it provides a minimum liquidity necessary to ensure participation rights to all effectively validated users. In line with the established consensus [5] that a basic income rate providing a balanced level of economic liquidity averages at 10% of individual earnings, the $VOTE token delivers crypto-political liquidity at a rate that is set at 10% of an individual’s working time, triggered upon verification of citizenship. The $VOTE token corresponds to one minute of time, with the Ethereum blockchain serving as a universal clock for accounting of time. As of July 2018, the average block time of the Ethereum blockchain is at ~15 seconds. [6] At this block creation rate, the token distribution mechanism will grant the right to 1 new VOTE token every ~160 blocks, or 40 minutes of Elapsed Time since identity generation. 
 
-- Economic:  Democracy Earth's core motivation is enabling every member of society to express his preferences through the $VOTE token. This cannot be achieved with inequitable token distribution and induced scarcity typical of most crypto assets, but rather through guaranteeing access to $VOTE tokens as a human right. The distribution mechanism is analogous to a Universal Basic Income in that it provides a minimum liquidity necessary to ensure participation rights to all effectively validated users. In line with the established consensus [5] that a basic income rate providing a balanced level of economic liquidity averages at 10% of individual earnings, the $VOTE token delivers crypto-political liquidity at a rate that is set at 10% of an individual’s working time, triggered upon verification of citizenship. The $VOTE token corresponds to one minute of time, with the Ethereum blockchain serving as a universal clock for accounting of time. As of July 2018, the average block time of the Ethereum blockchain is at ~15 seconds. [6] At this block creation rate, the token distribution mechanism will grant the right to 1 new VOTE token every ~160 blocks, or 40 minutes of Elapsed Time since identity generation. 
-Token Sale and Distribution
+## **Token Sale and Distribution**
 
 To fund the continued development of the $VOTE token and the Foundation efforts until the token ecosystem is fully developed and self-sustaining, it is necessary for the Foundation to mint enough tokens to fully fund such efforts.  
 
 The Foundation Board determined that $60 million total valuation would be sufficient.  The Foundation will therefore mint a maximum of 500 million tokens, priced at $0.12 each, and distribute as follows:
 
-
   250 million tokens (50%) sold, with lockups of 0mo, 6mo, 12mo.
   200 million tokens (40%) held by Foundation, no lockup.
   50 million tokens (10%) to team for time-tracked work to-date, no lockup.
 
-NOTE:  The Foundation is very specifically NOT granting team members tokens in excess of time invested in the Foundation to-date.  Whereas, most token sale projects grant tokens for future work or in attempt to replicate stock options, the Foundation is specifically not granting tokens for future work. 
+*NOTE:*  The Foundation is very specifically NOT granting team members tokens in excess of time invested in the Foundation to-date.  Whereas, most token sale projects grant tokens for future work or in attempt to replicate stock options, the Foundation is specifically not granting tokens for future work. 
 
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_B07272BD7D2F946CAA1EC96DFDBF4623193F76510E112B86505A5B6FF0886EFF_1531225236748_image.png)
 
 
 
-Pricing of Token
+## **Pricing of Token**
 
 The token is equivalent to one minute of time, the price of which is initially determined by setting equivalent to the U.S. minimum wage, currently $7.25 per hour or $0.12 per minute.
 
@@ -73,7 +69,7 @@ At $0.12 per minute and $7.25 per hour, the equivalent annual salary (working 2,
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_0DC2245C4BA2D008B7052690D989EE24F4CEC13F5A7916BDE2B0EAF91DF9218F_1531211810381_file.png)
 
-Quantity of Tokens
+## Quantity of Tokens
 
 Token quantity will be naturally regulated by population and time. Proof-of-identity (or “POI”) is required to register and to mint or be granted tokens and a maximum of eight hours per day, five days per week can be mined.
 
@@ -90,18 +86,18 @@ For each of the 10 billion, in today’s value of $0.12 per token, the equivalen
 
 Therefore, the natural inflation rate equals the difference between the population birth rate minus the death rate.  For example, if the birth rate equals 4% and the death rate equals 3%, the natural inflation rate of token quantity equals 1%.  If the birth rate falls below the death rate, a natural deflation of token quantity occurs, keeping the ecosystem liquidity in check and balanced.
 
-Legal Work and SAFT
+## Legal Work and SAFT
 
 The offering employs a Simple Agreement for Future Token (“SAFT”), created and utilized to enable compliant token pre-sales. 
 
 
-- Reg. D, 506(b).  The offering is in compliance with U.S. Securities and Exchange Commission (“SEC”) Reg D. 506(b) and other U.S. securities laws.  The Foundation has filed paperwork notifying the SEC of the offering. [9]
+- **Reg. D, 506(b). ** The offering is in compliance with U.S. Securities and Exchange Commission (“SEC”) Reg D. 506(b) and other U.S. securities laws.  The Foundation has filed paperwork notifying the SEC of the offering. [9]
 
 
-- SAFT.  Because the Democracy Earth vote token is in development and it is not yet live, an industry-standard SAFT will be utilized to sell tokens to accredited investors. The SAFT is a fundraising instrument and legal agreement between two parties, where one party (the “buyer”) buys tokens to be delivered at a future date by the other party (the “seller”), after the Network Launch or some other event important to the creation of the token. [10]
+- **SAFT.**  Because the Democracy Earth vote token is in development and it is not yet live, an industry-standard SAFT will be utilized to sell tokens to accredited investors. The SAFT is a fundraising instrument and legal agreement between two parties, where one party (the “buyer”) buys tokens to be delivered at a future date by the other party (the “seller”), after the Network Launch or some other event important to the creation of the token. [10]
 
 
-Bibliography 
+## Bibliography 
 
 [1] ($VOTE) represents token based on standard Ethereum ERC20 — https://github.com/ethereum/EIPs/issues/20
 [2] ($I) represents Identity based on standard Ethereum ERC725 — https://github.com/ethereum/EIPs/issues/725
