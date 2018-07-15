@@ -121,5 +121,5 @@ The offering employs a Simple Agreement for Future Token (“SAFT”), created a
 
 [11] U.S. Department of Labor, Bureau of Labor Statistics — https://www.bls.gov/news.release/empsit.t19.htm
 
-[12] www.worldofmeters.info - http://www.worldometers.info/world-population/?#pastfuture
+[12] [www.worldofmeters.info](http://www.worldometers.info/world-population/?#pastfuture)
 <br/>
