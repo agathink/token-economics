@@ -100,14 +100,26 @@ The offering employs a Simple Agreement for Future Token (“SAFT”), created a
 ## Bibliography 
 
 [1] ($VOTE) represents token based on standard Ethereum ERC20 — https://github.com/ethereum/EIPs/issues/20
+
 [2] ($I) represents Identity based on standard Ethereum ERC725 — https://github.com/ethereum/EIPs/issues/725
+
 [3] How to Reform Welfare and Taxes to Provide Every American Citizen with a Basic Income —https://medium.com/economicsecproj/how-to-reform-welfare-and-taxes-to-provide-every-american-citizen-with-a-basic-income-bc67d3f4c2b8 
+
 [4] Decred Constitution — https://docs.decred.org/getting-started/constitution/
+
 [5] Basic Attention Token — https://basicattentiontoken.org/
+
 [6] Etherscan Ethereum Average Blocktime Chart https://etherscan.io/chart/blocktime
+
 [7] Zeppelin Token Stages — https://blog.zeppelin.solutions/the-4-stages-of-a-token-sale-cc88fbe1717a
+
 [8] Filecoin Token Sale Economics — https://coinlist.co/assets/index/filecoin_index/Filecoin-Sale-Economics-e3f703f8cd5f644aecd7ae3860ce932064ce014dd60de115d67ff1e9047ffa8e.pdf
+
 [9] Reg. D, 506(b) — https://www.sec.gov/smallbusiness/exemptofferings/rule506b
+
 [10] SAFT — https://docs.google.com/document/d/1svX1AlF1BP92Ytj5vjtil8il_g67GTI3gS_pOzDH4XM/edit?usp=sharing
+
 [11] U.S. Department of Labor, Bureau of Labor Statistics — https://www.bls.gov/news.release/empsit.t19.htm
+
 [12] www.worldofmeters.info - http://www.worldometers.info/world-population/?#pastfuture
+<br/>
