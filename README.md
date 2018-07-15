@@ -117,7 +117,7 @@ The offering employs a Simple Agreement for Future Token (“SAFT”), created a
 
 [9] [Reg. D, 506(b)](https://www.sec.gov/smallbusiness/exemptofferings/rule506b)
 
-[10] [SAFT](https://docs.google.com/document/d/1svX1AlF1BP92Ytj5vjtil8il_g67GTI3gS_pOzDH4XM/edit?usp=sharing}
+[10] [SAFT](https://docs.google.com/document/d/1svX1AlF1BP92Ytj5vjtil8il_g67GTI3gS_pOzDH4XM/edit?usp=sharing)
 
 [11] [U.S. Department of Labor, Bureau of Labor Statistics](https://www.bls.gov/news.release/empsit.t19.htm)
 
