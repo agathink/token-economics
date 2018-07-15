@@ -25,7 +25,8 @@ The Democracy Earth Network will be structured with a Constitutional Smart Contr
 - Conditions required to declare null a verified identity (for example: detected sybils).
 - Supply rate of $VOTE minting in exchange for Elapsed Time of verified identities.
 - Criteria required to unlock the Constitutional Smart Contract approvals for a new vote (for example: reaching a special two-thirds majority of network members).
-Identity ($I)
+
+## **Identity ($I)**
 
 With each new user entering the Democracy Earth platform the new profile is broadcast to the network, so that other participants can validate the two following claims:
 
@@ -42,6 +43,8 @@ Globalization and digitalization provide the context for the new political and e
 - *Political:*  Democracy is in global recession, with citizen voices either suppressed under authoritarian regimes, or depressed by political and capital controls marginalizing participants. We see this as a liquidity problem to be solved with new forms of democratic participation and representation through liquid democracy.  The Democracy Earth network acts as a political economy, providing the service of proposals and votes in a social environment. To address the political and technological challenges of democracy, the $VOTE token is designed with a stable price and collateralized with time, taking away the incentive to hold (“hodl”) and adding incentives to stake (i.e. vote or delegate), thereby signaling political voice. Staking $VOTEs has the intrinsic reward of increasing political capacity, and stabilizing the network by adding new, validated users. Token supply is limited by time and population with distribution regulated by periodic citizenship validation and the constitutional consensus on citizenship validation rules.
 
 - *Economic:*  Democracy Earth's core motivation is enabling every member of society to express his preferences through the $VOTE token. This cannot be achieved with inequitable token distribution and induced scarcity typical of most crypto assets, but rather through guaranteeing access to $VOTE tokens as a human right. The distribution mechanism is analogous to a Universal Basic Income in that it provides a minimum liquidity necessary to ensure participation rights to all effectively validated users. In line with the established consensus [5] that a basic income rate providing a balanced level of economic liquidity averages at 10% of individual earnings, the $VOTE token delivers crypto-political liquidity at a rate that is set at 10% of an individual’s working time, triggered upon verification of citizenship. The $VOTE token corresponds to one minute of time, with the Ethereum blockchain serving as a universal clock for accounting of time. As of July 2018, the average block time of the Ethereum blockchain is at ~15 seconds. [6] At this block creation rate, the token distribution mechanism will grant the right to 1 new VOTE token every ~160 blocks, or 40 minutes of Elapsed Time since identity generation. 
+
+
 
 ## **Token Sale and Distribution**
 
