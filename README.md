@@ -2,10 +2,10 @@
 ## Proof of stake democracy.
 
 ## **Abstract**
-lo<br/>
+<br/>
 
 The Democracy Earth token is an ERC20 token ($VOTE) [1] designed to provide reliable means of governance through staking and proxy delegation. It will be granted to verified participants, providing a universal access to liquidity that serves to inhibit financial coercion of public decisions. The token is tradable in open markets and can be minted in exchange for Elapsed Time by validated identities, establishing a fair distribution model. Tokens accrete value via a Proof of Identity which creates an ERC725 identity ($I) [2] that will be recognized as citizenship by the Democracy Earth Network and unlock the utility of transactions, certifications, voting and proxy representation on the blockchain. The Democracy Earth Network will be governed by a Constitutional Smart Contract consisting of proposals that can be originated by any citizen, with the main purpose of preventing false or sybil identities from being granted an ERC725 citizenship. Only verified $VOTE holders can vote or delegate their token to an existing ERC725 identity in the network.
-
+<br/>
 **Utility ($VOTE)**
 
 Financial economies thrive when activity signals demand, the leading indicator of supply. Political economies thrive when voting signals will. Token owners often hold (or “HODL”) crypto assets for financial speculation, silencing such signals. To prevent the danger of capital overtaking political economies as it has with financial economies, the act of holding in the VOTE network will represent value by signaling a decision or delegation (i.e. liquid democracy). This active stake removes financial motivation to strictly HODL, i.e. to not ‘spend’ a $VOTE on its main utility of decision-making in the hopes of future gains, by effectively enabling token owners to HODL on political positions.
